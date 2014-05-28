@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TareaLog</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_log">Log</string>
+    <string name="title_activity_ingresar">Ingresar</string>
+    <string name="title_activity_new_int_log">NewIntLog</string>
+    <string name="title_activity_form_new_user">FormNewUser</string>
+    <string name="title_activity_welcome_user">WelcomeUser</string>
+
+</resources>
